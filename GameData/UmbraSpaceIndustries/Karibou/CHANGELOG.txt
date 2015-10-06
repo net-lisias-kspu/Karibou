@@ -1,0 +1,25 @@
+0.0.5 - 2015.10.04
+-------------------
+Added 1000l of KIS inventory to the Karibou rover and crew cabs
+Fixed render issue with the crew cab
+The Karibou is now a resource distributor in MKS-L
+Fixed attachment node issues in the Karibou cargo bay
+Fixed collider issue with the Karibou crate
+Crates and tanks are EVA repaintable
+Adjusted KIS volume of the emergency shelter
+
+0.0.4
+------
+- Decreased mass on the RoverCab to 3 tons
+- Increased RoverCab EC to 500
+- Added USI-LS support and gave the RoverCab a bit of extra habitation space (due to the built in bunk).
+- Added a new inline VTOL descent engine
+- Increased crew cab mass to three tons, added USI-LS support for habitation space (two years at full complement)
+- Added USI-LS hab support to the inflatable emergency shelter (one year at full complement)
+- Halved the capacity of the switching tanks
+- Flatbed mass lowered to 1.25
+- Adjusted flatbed top node
+- Lowered mass of the crate/tanks
+- Added a KIS storage crate
+- Lowered mass of adapter plate
+- Lowered mass of emergency shelter
