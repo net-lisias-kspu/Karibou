@@ -1,3 +1,0 @@
-0.1.0 - 2015.10.16
---------------------
-Deprecated original Karibou wheels in favor of a new model with better braking, etc. - old vehicles will not break, but the old wheels are no longer researchable and will be removed with KSP 1.1
