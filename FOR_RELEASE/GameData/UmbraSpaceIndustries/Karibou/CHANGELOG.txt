@@ -1,10 +1,13 @@
-0.1.2 - 2016.01.15
+0.1.2 - 2016.01.18
 ------------------
 Adjusted wheel settings to make wheel a bit more grippy
 Inflatables now set to no crew capacity when deflated.  Also, deflating an inflatable with crew inside will kill the Kerbal.  you have been warned.
 Fixed missing techRequired for the radial probe core
 Added a new S.A.B.R.E. engine to enhance your Karibou experience 
 Converted all textures to DDS
+Deprecated legacy wheels - YOU HAVE BEEN WARNED!
+Added an RPM config to the Karibou (Thanks Damerell!)
+The Karibou Crew Cab not only holds Kerbals, but also serves as a habitation multiplier if you're using the USI-LS hab functions.
 
 0.1.1 - 2015.11.09
 ------------------
